@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuri</h1>
+<h1 align="center">Hi 👋, I'm Mira</h1>
 <h3 align="center">後端IT工程師，Go經歷兩年 & 正在學習 React。 是一名見習貓奴。</h3>
 
 - 🌱 I’m currently learning **Golang,React,Python**
